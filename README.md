@@ -2,4 +2,4 @@
 
 =================================================================
 
-**To be released
+Repo work in progress. Detailed README coming soon.
