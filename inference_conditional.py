@@ -151,7 +151,7 @@ if __name__ == '__main__':
         '--text-prompt', type=str, default=[''], nargs='+'
     )
     parser.add_argument(
-        '--rvq-pattern', type=str, default='parallel',
+        '--rvq-pattern', type=str, default='VALL-E',
         help='choose from "parallel", "flattened" and "VALL-E"; default: "parallel"'
     )
     parser.add_argument(
@@ -159,7 +159,7 @@ if __name__ == '__main__':
         help='choose from "large" and "small"; default: "large"'
     )
     parser.add_argument(
-        '--prediction-type', type=str, default='sample',
+        '--prediction-type', type=str, default='v_prediction',
         help='choose from "epsilon", "sample", "v_prediction"; default: "sample"'
     )
     parser.add_argument(
