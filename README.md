@@ -1,4 +1,4 @@
-# DiscoDiff
+# DiscoDiff | [📜Paper](https://openreview.net/forum?id=19Ukgqdlfg)
 
 A text-to-music diffusion model.
 
