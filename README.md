@@ -1,4 +1,4 @@
-# DiscoDiff | [📜Paper](https://openreview.net/forum?id=19Ukgqdlfg) | [🤗Captions](https://huggingface.co/datasets/disco-eth/jamendo-fma-captions) | [🤗Ranking](https://huggingface.co/datasets/disco-eth/FMA-rank)
+# DiscoDiff | [📜Paper](https://ieeexplore.ieee.org/document/10888056) | [🤗Captions](https://huggingface.co/datasets/disco-eth/jamendo-fma-captions) | [🤗Ranking](https://huggingface.co/datasets/disco-eth/FMA-rank)
 
 A text-to-music diffusion model. We also provide high-quality synthetic captions for MTG-Jamendo and FMA, as well as a ranking for every song in the FMA dataset.
 
